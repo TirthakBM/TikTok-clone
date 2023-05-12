@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![0d4118ff-24ba-49fc-9071-7457bbe9b2ea](https://github.com/TirthakBM/TikTok-clone/assets/97222016/41a948b5-2540-4c7b-a85e-a302b0ea1a4b)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
